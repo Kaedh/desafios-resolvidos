@@ -3,4 +3,5 @@ My intention is to use this place as a way to register and follow my evolution i
 Feel free to see these solutions and give your thoughts.
 
 ## Fácil
-* (simpleArraySum)[/simpleArraySum.js]
+* [simpleArraySumtest](simpleArraySum.js)
+* [simpleArraySum](https://github.com/Kaedh/my-hackerhank/blob/main/simpleArraySum.js)
