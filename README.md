@@ -3,5 +3,6 @@ A ideia deste repositorio é agrupar em um lugar todos os desafios de algoritimo
 Sinta-se livre para me contatar caso surja alguma dúvida, sugestão, ou só queira trocar uma idéia😜.
 
 ## Fácil
-* [simpleArraySum](https://github.com/Kaedh/my-hackerhank/blob/main/facil/simple-array-sum.js)
+* [Simple Array Sum](https://github.com/Kaedh/my-hackerhank/blob/main/facil/simple-array-sum.js)
+* [A Very Big Sum](https://github.com/Kaedh/my-hackerhank/blob/main/facil/a-very-big-sum.js)
 
