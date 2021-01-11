@@ -7,4 +7,5 @@ Sinta-se livre para me contatar caso surja alguma dúvida, sugestão, ou só que
 * [A Very Big Sum](https://github.com/Kaedh/my-hackerhank/blob/main/facil/a-very-big-sum.js)
 * [Diagonal Difference](https://github.com/Kaedh/my-hackerhank/blob/main/facil/diagonal-difference.js)
 * [Plus Minus](https://github.com/Kaedh/my-hackerhank/blob/main/facil/plus-minus.js)
+* [Staircase](https://github.com/Kaedh/my-hackerhank/blob/main/facil/staircase.js)
 
