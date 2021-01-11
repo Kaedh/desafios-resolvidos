@@ -8,4 +8,5 @@ Sinta-se livre para me contatar caso surja alguma dúvida, sugestão, ou só que
 * [Diagonal Difference](https://github.com/Kaedh/my-hackerhank/blob/main/facil/diagonal-difference.js)
 * [Plus Minus](https://github.com/Kaedh/my-hackerhank/blob/main/facil/plus-minus.js)
 * [Staircase](https://github.com/Kaedh/my-hackerhank/blob/main/facil/staircase.js)
+* [Mini-Max Sum](https://github.com/Kaedh/my-hackerhank/blob/main/facil/mini-max-sum.js)
 
