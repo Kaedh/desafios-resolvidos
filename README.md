@@ -10,4 +10,4 @@ Sinta-se livre para me contatar caso surja alguma dúvida, sugestão, ou só que
 * [Staircase](https://github.com/Kaedh/my-hackerhank/blob/main/facil/staircase.js)
 * [Mini-Max Sum](https://github.com/Kaedh/my-hackerhank/blob/main/facil/mini-max-sum.js)
 * [Birthday Cake Candles](https://github.com/Kaedh/my-hackerhank/blob/main/facil/birthday-cake-candle.js)
-
+* [Time Conversion](https://github.com/Kaedh/my-hackerhank/blob/main/facil/time-conversion.js)
