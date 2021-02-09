@@ -24,3 +24,6 @@ function birthdayCakeCandles(candles) {
     
     return tallestCandlesSum;
 };
+
+
+/* https://www.hackerrank.com/challenges/birthday-cake-candles/problem */
