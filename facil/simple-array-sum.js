@@ -15,3 +15,5 @@ function simpleArraySum(lista) {
   
   return elementosSomados;
 };
+
+/* https://www.hackerrank.com/challenges/simple-array-sum/problem */
