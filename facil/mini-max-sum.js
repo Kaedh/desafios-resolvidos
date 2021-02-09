@@ -26,3 +26,6 @@ function miniMaxSum(arr) {
     
     console.log(minSum, maxSum); 
 }
+
+
+/* https://www.hackerrank.com/challenges/mini-max-sum/problem */
