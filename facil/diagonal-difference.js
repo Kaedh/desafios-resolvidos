@@ -45,3 +45,6 @@ function diagonalDifference(arr) {
     
     return diagonalDifference;
 }
+
+
+/* https://www.hackerrank.com/challenges/diagonal-difference/problem */ 
