@@ -24,3 +24,6 @@ function timeConversion(s) {
 
     return timeConverted;
 }
+
+
+/* https://www.hackerrank.com/challenges/time-conversion/problem */
