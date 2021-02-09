@@ -13,3 +13,5 @@ function aVeryBigSum(lista) {
   
   return somaDosElementos;
 };
+
+/* https://www.hackerrank.com/challenges/a-very-big-sum/problem */
