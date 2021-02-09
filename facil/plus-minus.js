@@ -30,3 +30,6 @@ function plusMinus(arr) {
     console.log(negativeRatio);
     console.log(zeroRatio);
 };
+
+
+/* https://www.hackerrank.com/challenges/plus-minus/problem */
