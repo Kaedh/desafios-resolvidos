@@ -12,3 +12,4 @@ Sinta-se livre para me contatar caso surja alguma dúvida, sugestão, ou só que
 * [Birthday Cake Candles](https://github.com/Kaedh/my-hackerhank/blob/main/facil/birthday-cake-candle.js)
 * [Time Conversion](https://github.com/Kaedh/my-hackerhank/blob/main/facil/time-conversion.js)
 * [Grading Students](https://github.com/Kaedh/my-hackerhank/blob/main/facil/grading-students.js)
+* [Area of a circle](https://github.com/Kaedh/desafios-resolvidos/blob/main/facil/area-of-a-circle.js)
