@@ -22,3 +22,6 @@ function staircase(n) {
         hashtagCounter++;
     };
 }
+
+
+/* https://www.hackerrank.com/challenges/staircase/problem */
